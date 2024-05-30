@@ -9,6 +9,8 @@
 
 # GitHub Pages
 
+Post format: _posts/YYYY-MM-DD-title.md
+
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 </header>
