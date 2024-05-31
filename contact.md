@@ -2,6 +2,7 @@
 layout: page
 title: "Contact Me"
 permalink: /contact/
+order: 3
 ---
 
 <form action="https://public.herotofu.com/v1/4f8a7bb0-1f5d-11ef-90b8-b52fc5a15495" method="POST">
