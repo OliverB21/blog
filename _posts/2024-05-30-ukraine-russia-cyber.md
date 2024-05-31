@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The cyber war between Russia and Ukraine (Second Draft)"
+title:  "The Cyber War between Russia and Ukraine (Second Draft)"
 ---
 
 > *Since before the beginning of the physical invasion of Ukraine by Russia, a virtual war has been taking place. Cyber attacks have been exchanged by both sides, with support from all around the world.*
