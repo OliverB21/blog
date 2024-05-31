@@ -1,4 +1,5 @@
 ---
+title: Thanks
 permalink: /thanks/
 exclude: true
 ---
