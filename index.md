@@ -1,4 +1,3 @@
 ---
-title: Home Page
+title: Home
 ---
-# See my posts below
