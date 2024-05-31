@@ -15,6 +15,7 @@ Initially, Russia denied its involvement in these attacks. However, since then, 
 
 ## Global Response
 The response to these attacks have come not just from Ukraine, but all over the world. Notably, the Anonymous hacktivism group announced that it’s members had begun “operations against the Russian Federation” ([see here](https://x.com/YourAnonNews/status/1496954233492541444)), and according to them, they had hacked [more than 2500 targets](https://www.hstoday.us/subject-matter-areas/cybersecurity/anonymous-claims-more-than-2500-targets-hacked-in-first-week-of-oprussia-offensive/) in the first week of their “#OpRussia” campaign.
+
 Others have also joined the fight against Russia. This article from [BBC News](https://www.bbc.co.uk/news/technology-68722542) talks of hackers from around the world being recognised by Ukraine, for their assistance in hacking key Russian targets, inlcuding exfiltrating data from government sources and accessing cameras used to track military equipment movement.
 
 ## Continued Offensive
