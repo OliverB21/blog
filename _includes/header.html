@@ -3,8 +3,9 @@
   <div class="wrapper">
     {% assign sorted_pages = site.pages | sort:"order" %}
       {% for node in sorted_pages %}
-        <li><a href="{{node.url}}">{{node.title}}</a></li>
-      {% endfor %}
+        {% if node.exclude != true %}
+          <li><a href="{{node.url}}">{{node.title}}</a></li>
+        {% endif %}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     {%- assign titles_size = site.pages | map: 'title' | join: '' | size -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
