@@ -25,4 +25,4 @@ Others have also joined the fight against Russia. This article from [BBC News](h
 The cyber war continues to this day, across many domains. Notably, between August 2023 and March 2024, [46000 civilian and military aircraft](https://www.theguardian.com/business/2024/apr/22/thousands-of-flights-to-and-from-europe-affected-by-suspected-russian-jamming) have reported satellite navigation issues in airspace near Russia, which is suspected to have been caused by Russia themselves. If you'd like to show your support for the citizens of Ukraine there are many charities and humanitarian organisations that are providing real support. One example is Driving Ukraine, who are delivering ambulances from the UK. If you're interested in finding out more about what they do, [click here](https://www.drivingukraine.org/).
 
 Thanks for reading. 
->Nadia, Slava Ukraini
+>Nadia, Slava Ukraini 🇺🇦
