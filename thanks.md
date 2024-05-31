@@ -1,5 +1,6 @@
 ---
 permalink: /thanks/
+exclude: true
 ---
 ## Thanks
 
