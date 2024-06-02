@@ -47,7 +47,7 @@ This one employs a different tactic to the first. Instead of preying on the inst
 
 ### Number 3 - Pretty Convincing
 
-Can you tell the difference between `https://google.com` and `https://gооglе.соm`? No? Paste them both into your browser. One takes you to here:
+Can you tell the difference between [`https://google.com`](https://gооglе.соm) and [`https://gооglе.соm`](https://gооglе.соm)? No? Paste them both into your browser. One takes you to here:
 
 ![A screenshot of the legitimate google.com domain](https://oliverb21.github.io/blog/img/posts/05_google_1.png)
 *Image source - Me*
