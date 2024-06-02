@@ -40,9 +40,6 @@ For this one, I have chosen an email from "PayPal":
 ![A screenshot of a scam invoice from "PayPal"](https://oliverb21.github.io/blog/img/posts/03_fake_paypal.png)
 *Image source - Me*
 
-![A screenshot of a scam email from "PayPal"](https://oliverb21.github.io/blog/img/posts/img/posts/04_fake_paypal_2.png)
-*Image source - Me*
-
 This one employs a different tactic to the first. Instead of preying on the instinct of greed (someone trying to clain money that isn't theirs), it uses fear. It wants you to panic, so you call their "support number" and give over your details. But again, the odd email and strange grammar is a big giveaway here. For a great example of what they might do when they have you on the phone, check out [Jim Browning's](https://www.youtube.com/watch?v=FO9mWvJAugQ) YouTube channel. He "scams the scammers", by disrupting them and wasting their time.
 
 ### Number 3 - Pretty Convincing
@@ -69,6 +66,6 @@ To round off this post, here are three things you can do to keep yourself safe f
 
 3. **Stay Educated** - Every now and then, research the latest cyber security news and find out what methods attackers are using to attack the public. This will allow you understand how they work and how to secure your accounts.
 
-Thanks for reading. If you have any questions, or any interesting scam emails you'd like to share, feel free to use the contact form [here](https://oliverb21.github.io/blog/contact).
+Thanks for reading. If you have any questions, or any interesting scam emails you'd like to share, feel free to get in touch [here](mailto:oliverbouchier@proton.me).
 
 > *“The Special Investigative Panel on Abandoned Funds have expressed their displeasure over that endless transaction you have entered with those Banks with constant demand for more money, yet without positive conclusion”*
