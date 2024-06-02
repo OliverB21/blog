@@ -3,7 +3,6 @@ layout: post
 title: ShinyHunters - A Week of Data Breaches
 subtitle: Learn more about the recent spate of data breaches
 tags: APT Data ShinyHunters
-background: img/posts/02_CBN_email.png
 ---
 > *“Until you have experienced something like this, you don't realise just what can happen, just how serious it can be.”*
 
