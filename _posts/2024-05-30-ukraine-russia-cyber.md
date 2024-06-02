@@ -1,16 +1,17 @@
 ---
 layout: post
 title:  "The Cyber War between Russia and Ukraine"
+subtitle: An analysis of cyber operations between Russia and Ukraine since January 2022
 tags: Ukraine Cyber
 ---
 
-> *Since before the beginning of the physical invasion of Ukraine by Russia, a virtual war has been taking place. Cyber attacks have been exchanged by both sides, with support from all around the world.*
+> *"Since before the beginning of the physical invasion of Ukraine by Russia, a virtual war has been taking place. Cyber attacks have been exchanged by both sides, with support from all around the world."*
 
 ---
 ## Initial Attacks by Russia
 In January 2022, [the BBC](https://www.bbc.co.uk/news/world-europe-59992531) reported that 70 Ukrainian government websites had been breached, with messages appearing on those sites warning the Ukrainian citizens to “prepare for the worst”. This marked the beginning of a “cyber war” that has been waged on an international level. One month later, Russia formally began it’s invasion of Ukraine and stepped up attacks. Notably, various [DDOS](https://thehill.com/policy/international/594330-ukraine-defense-ministry-banks-hit-by-cyberattack-amid-tensions-with/) attacks took place against government targets in Ukraine (including banking systems), on top of [data wiping malware](https://symantec-enterprise-blogs.security.com/threat-intelligence/ukraine-wiper-malware-russia) being installed on many key government machines.
 
-![A screen written in Cyrillic text with a crossed out Ukrainian flag](../../../assets/00_ukraine-warning.jpg.webp)
+![A screen written in Cyrillic text with a crossed out Ukrainian flag](https://oliverb21.github.io/blog/img/posts/00_ukraine-warning.jpg.webp)
 *Image source - BBC*
 
 

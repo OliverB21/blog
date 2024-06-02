@@ -22,7 +22,7 @@ Groups that undertake large scale data breaches like these rarely have a motivat
 ## What
 So what exactly did they do this time? Over the last week, across the two attacks, they have exfiltrated over 800m staff and customer records from Ticketmaster and Santander. You'd think (and hope!) that your bank will have some of the best cyber security of any company that you interact with. Interestingly, it is being claimed by [Hudson Rock](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection), a security research company, that the breach is a result of a lapse of security in a cloud hosting service known as [Snowflake](https://www.snowflake.com/en/), which both of the affected companies use. In their exclusive interview with ShinyHunters, they claim that it is not just the two companies that they have breached, and that they have more than they are letting on. They suggested looking at [Snowflake's customer page](https://www.snowflake.com/en/customers/), which currently contains household names such as Mastercard, Disney and Pfizer. Unfortunately, there is no Internet Archive cache of this page to see whether Santander or Ticketmaster were on that list...
 
-![A sceencapture from a Russian forum, listing the Santander details for sale](../../../assets/01_snowflake_breach_infostealer_1.png) 
+![A sceencapture from a Russian forum, listing the Santander details for sale](https://oliverb21.github.io/blog/img/posts/01_snowflake_breach_infostealer_1.png) 
 *Image Source - Hudson Rock*
 
 ## How
