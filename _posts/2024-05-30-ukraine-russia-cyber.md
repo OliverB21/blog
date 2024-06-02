@@ -3,6 +3,7 @@ layout: post
 title:  "The Cyber War between Russia and Ukraine"
 subtitle: An analysis of cyber operations between Russia and Ukraine since January 2022
 tags: Ukraine Cyber
+background: img/posts/00_ukraine-warning.jpg.webp
 ---
 
 > *"Since before the beginning of the physical invasion of Ukraine by Russia, a virtual war has been taking place. Cyber attacks have been exchanged by both sides, with support from all around the world."*
