@@ -12,8 +12,8 @@ Over the last few weeks, 2 major data breaches have hit the news, both [Santande
 ## Who
 ShinyHunters, the group of hackers who are claiming responsibility for the attacks, got their name from a niche Pokémon community who search for unique, or shiny, Pokémon. Despite the somewhat innocent name, they have claimed many data breaches in the past, starting in 2020. These include:
 - AT&T, 70 million records taken from the American mobile carrier in 2021. ([<ins>see here</ins>](https://gizmodo.com/a-notorious-hacker-gang-claims-to-be-selling-data-on-70-1847527860))
-- Tokopedia, 91 million personal details breached from the Indonesian e-commerce company in 2020. (<ins>[see here</ins>](https://gizmodo.com/a-notorious-hacker-gang-claims-to-be-selling-data-on-70-1847527860))
-- Microsoft, where the group claimed they had stolen 500GB of data from the tech giant's private GitHub repos in the same month as the Tokopedia breach. (<ins>[see here</ins>](https://techgenix.com/microsofts-github-account-breached/))
+- Tokopedia, 91 million personal details breached from the Indonesian e-commerce company in 2020. ([<ins>see here</ins>](https://gizmodo.com/a-notorious-hacker-gang-claims-to-be-selling-data-on-70-1847527860))
+- Microsoft, where the group claimed they had stolen 500GB of data from the tech giant's private GitHub repos in the same month as the Tokopedia breach. ([<ins>see here</ins>](https://techgenix.com/microsofts-github-account-breached/))
 
 As it goes with many of these groups, sometimes referred to as Advanced Persistent Threats (APTs), not much is known about who exactly they are or where they operate from. It's likely an international affair, although we do know [one French member pleaded guilty](https://cyberwarzone.com/shinyhunters-22-year-old-member-pleads-guilty-to-cyber-extortion-causing-6-million-in-damage/) in the US to $6m in damamges as a result of some of these attacks. While we don't know exactly who they are, we do know their motivation: money.
 
