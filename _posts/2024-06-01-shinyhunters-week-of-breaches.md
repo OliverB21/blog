@@ -15,7 +15,7 @@ ShinyHunters, the group of hackers who are claiming responsibility for the attac
 - Tokopedia, 91 million personal details breached from the Indonesian e-commerce company in 2020. ([<ins>see here</ins>](https://gizmodo.com/a-notorious-hacker-gang-claims-to-be-selling-data-on-70-1847527860))
 - Microsoft, where the group claimed they had stolen 500GB of data from the tech giant's private GitHub repos in the same month as the Tokopedia breach. ([<ins>see here</ins>](https://techgenix.com/microsofts-github-account-breached/))
 
-As it goes with many of these groups, sometimes referred to as Advanced Persistent Threats (APTs), not much is known about who exactly they are or where they operate from. It's likely an international affair, although we do know [one French member pleaded guilty](https://cyberwarzone.com/shinyhunters-22-year-old-member-pleads-guilty-to-cyber-extortion-causing-6-million-in-damage/) in the US to $6m in damamges as a result of some of these attacks. While we don't know exactly who they are, we do know their motivation: money.
+As it goes with many of these groups, sometimes referred to as APTs (Advanced Persistent Threats), not much is known about who exactly they are or where they operate from. It's likely an international affair, although we do know [one French member pleaded guilty](https://cyberwarzone.com/shinyhunters-22-year-old-member-pleads-guilty-to-cyber-extortion-causing-6-million-in-damage/) in the US to $6m in damamges as a result of some of these attacks. While we don't know exactly who they are, we do know their motivation: money.
 
 ## Why
 Groups that undertake large scale data breaches like these rarely have a motivation that isn't money. Cyber criminals that aim to disrupt for the sake of activism, revenge or pretty much any other motivation aside from nation state actors won't have the funding or skills to pull of attacks on this scale. So the why? Certainly money.
@@ -37,7 +37,7 @@ It's likely, over the next few weeks, more breaches that the group have performe
 Thanks for reading
 
 ## *Update - 03/06/2024*
-Snowflake have created a [blog post](https://community.snowflake.com/s/question/0D5VI00000Emyl00AB/detecting-and-preventing-unauthorized-user-access) effectively denying responsibility for the attack. In short, they are suggesting that they haven't been directly attacked, and the reason for the breaches was from that customers with Multi Factor Authentication (MFA) disabled were being targeted, with the help of credentials that have been stolen in previous, unrelated breaches. 
+Snowflake have created a [blog post](https://community.snowflake.com/s/question/0D5VI00000Emyl00AB/detecting-and-preventing-unauthorized-user-access) effectively denying responsibility for the attack. In short, they are suggesting that they haven't been directly attacked, and that the breaches were caused by customers not having Multi Factor Authentication (MFA) enabled. This has lead to unauthorised access to their accounts with the help of credentials that have been stolen in previous, unrelated breaches. 
 
 It's still unclear what we are looking, but there are a few possibilities of what has happened:
 

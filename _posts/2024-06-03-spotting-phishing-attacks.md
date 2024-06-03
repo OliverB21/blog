@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Phishing Attacks - How to Spot Them
+subtitle: Learn what Phishing attacks look like and how to deal with them
 tags: Data Phishing Education
 published: false
 ---
