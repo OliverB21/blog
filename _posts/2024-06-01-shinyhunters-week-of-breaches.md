@@ -11,9 +11,9 @@ Over the last few weeks, 2 major data breaches have hit the news, both [Santande
 
 ## Who
 ShinyHunters, the group of hackers who are claiming responsibility for the attacks, got their name from a niche Pokémon community who search for unique, or shiny, Pokémon. Despite the somewhat innocent name, they have claimed many data breaches in the past, starting in 2020. These include:
-- AT&T, 70 million records taken from the American mobile carrier in 2021. ([see here](https://gizmodo.com/a-notorious-hacker-gang-claims-to-be-selling-data-on-70-1847527860))
-- Tokopedia, 91 million personal details breached from the Indonesian e-commerce company in 2020. ([see here](https://gizmodo.com/a-notorious-hacker-gang-claims-to-be-selling-data-on-70-1847527860))
-- Microsoft, where the group claimed they had stolen 500GB of data from the tech giant's private GitHub repos in the same month as the Tokopedia breach. ([see here](https://techgenix.com/microsofts-github-account-breached/))
+- AT&T, 70 million records taken from the American mobile carrier in 2021. ([<ins>see here</ins>](https://gizmodo.com/a-notorious-hacker-gang-claims-to-be-selling-data-on-70-1847527860))
+- Tokopedia, 91 million personal details breached from the Indonesian e-commerce company in 2020. (<ins>[see here</ins>](https://gizmodo.com/a-notorious-hacker-gang-claims-to-be-selling-data-on-70-1847527860))
+- Microsoft, where the group claimed they had stolen 500GB of data from the tech giant's private GitHub repos in the same month as the Tokopedia breach. (<ins>[see here</ins>](https://techgenix.com/microsofts-github-account-breached/))
 
 As it goes with many of these groups, sometimes referred to as Advanced Persistent Threats (APTs), not much is known about who exactly they are or where they operate from. It's likely an international affair, although we do know [one French member pleaded guilty](https://cyberwarzone.com/shinyhunters-22-year-old-member-pleads-guilty-to-cyber-extortion-causing-6-million-in-damage/) in the US to $6m in damamges as a result of some of these attacks. While we don't know exactly who they are, we do know their motivation: money.
 
@@ -35,4 +35,18 @@ Anyone can send a fake email, but they are often clumsy and easy to spot. It tak
 It's likely, over the next few weeks, more breaches that the group have performed will pop up, and investigations will begin into how such major breaches could have occurred. To keep yourself safe from breaches like this, make sure that your data is only being stored by companies that need it, and learn your rights around your data. Also, check out the [https://haveibeenpwned.com/](haveibeenpwned.com/) project, aiming to teach people about personal data, and find out if your email or password have appeared in any major breaches.
 
 Thanks for reading
+
+## *Update - 03/06/2024*
+Snowflake have created a [blog post](https://community.snowflake.com/s/question/0D5VI00000Emyl00AB/detecting-and-preventing-unauthorized-user-access) effectively denying responsibility for the attack. In short, they are suggesting that they haven't been directly attacked, and the reason for the breaches was from that customers with Multi Factor Authentication (MFA) disabled were being targeted, with the help of credentials that have been stolen in previous, unrelated breaches. 
+
+It's still unclear what we are looking, but there are a few possibilities of what has happened:
+
+1. **Snowflake has been breached** and they are yet to publicise this while they perform their investigations, potentially trying to reduce the reputational impact on the company
+
+2. **Snowflake hasn't been breached** and each customer account takeover was independent and took advantage of failings on the customer's side (not enabling MFA)
+
+3. **Snowflake's security policies are weak**, meaning that customers followed advice given and this lead to their accounts being breached. In this case, the liability wouldn't be as clear as the first two
+
+Any of these are possible, but it is still bugging me *why Snowflake*? If the customer's details were already stolen, ShinyHunters could easily access so much more than just what is stored on Snowflake's servers, so why have they exclusively targeted this platform? I think there will be more details and questions answered as time goes on, but this process will likely be a long one. I'll try and keep this post updated.
+
 > *"i hacked p much [all of these](https://www.snowflake.com/en/customers/all-customers/) so you could just list more of them"*
