@@ -59,7 +59,7 @@ And the other, here:
 
 *Image source - Me*
 
-This happens because some of the characters in the right hand example are using different Unicode characters. A threat actor could buy this domain, set up a clone of the Google login page and start collecting details. These can be hard to spot, but as long as you follow these steps you can keep yourself as secure as possible.
+This happens because some of the characters in the second  hand example are using different Unicode characters. A threat actor could buy this domain, set up a clone of the Google login page and start collecting details. These can be hard to spot, but as long as you follow these steps you can keep yourself as secure as possible.
 
 ## How to Keep Yourself Safe
 
