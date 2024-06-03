@@ -3,7 +3,6 @@ layout: post
 title: Phishing Attacks - How to Spot Them
 subtitle: Learn what Phishing attacks look like and how to deal with them
 tags: Data Phishing Education
-published: false
 ---
 > *“Dear beloved, Please read this slowly and carefully, as it may be one of the most important emails you have ever get”*
 ## What is Phishing
