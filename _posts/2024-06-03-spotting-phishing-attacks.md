@@ -5,6 +5,7 @@ subtitle: Learn what Phishing attacks look like and how to deal with them
 tags: Data Phishing Education
 ---
 > *“Dear beloved, Please read this slowly and carefully, as it may be one of the most important emails you have ever get”*
+
 ## What is Phishing
 As computers are getting more and more secure, it is becoming more and more favourable for threat actors to use the weakest link in a computer system, the person. Instead of investing many thousands of pounds in the best hackers with the most advanced tools, it is often easier to set up a free email address, spam thousands of people and hope that one or two people fall for their scam before they get shut down (and yes, the quotes at the top and bottom are from real scam emails I received).
 
@@ -25,6 +26,7 @@ So you know what to look out for, let's take a look at some scam and phishing me
 Often people joke about receieving an email from a "Nigerian Prince" offering them a fortune. Unfortunatley the prince didn't contact me directly, but the Central Bank of Nigeria (CBN):
 
 ![A screenshot of a scam email](https://oliverb21.github.io/blog/img/posts/02_CBN_email.png)
+
 *Image source - Me*
 
 The above email is the perfect example of a phishing email that covers all of the point above. It includes:
@@ -38,6 +40,7 @@ The above email is the perfect example of a phishing email that covers all of th
 For this one, I have chosen an email from "PayPal":
 
 ![A screenshot of a scam invoice from "PayPal"](https://oliverb21.github.io/blog/img/posts/03_fake_paypal.png)
+
 *Image source - Me*
 
 This one employs a different tactic to the first. Instead of preying on the instinct of greed (someone trying to clain money that isn't theirs), it uses fear. It wants you to panic, so you call their "support number" and give over your details. But again, the odd email and strange grammar is a big giveaway here. For a great example of what they might do when they have you on the phone, check out [Jim Browning's](https://www.youtube.com/watch?v=FO9mWvJAugQ) YouTube channel. He "scams the scammers", by disrupting them and wasting their time.
@@ -47,11 +50,13 @@ This one employs a different tactic to the first. Instead of preying on the inst
 Can you tell the difference between [`https://google.com`](https://gооglе.соm) and [`https://gооglе.соm`](https://gооglе.соm)? No? Paste them both into your browser. One takes you to here:
 
 ![A screenshot of the legitimate google.com domain](https://oliverb21.github.io/blog/img/posts/05_google_1.png)
+
 *Image source - Me*
 
 And the other, here:
 
 ![A screenshot of a fake google.com domain](https://oliverb21.github.io/blog/img/posts/06_google_2.png)
+
 *Image source - Me*
 
 This happens because some of the characters in the right hand example are using different Unicode characters. A threat actor could buy this domain, set up a clone of the Google login page and start collecting details. These can be hard to spot, but as long as you follow these steps you can keep yourself as secure as possible.
