@@ -39,3 +39,13 @@ Adversarial attacks are known for their usage in image recognition algorithms, i
 ![An image of a panda, a noise map and the same image of a panda](https://oliverb21.github.io/blog/img/posts/07_adversarial_example.png)
 
 *Image Source - [Explaining and Harnessing Adversarial Examples](https://arxiv.org/pdf/1412.6572)*
+
+The simple idea behind this is that if you use a mathematically generated "noise map" (image 2) by using some information from the model, and overlay a very small amount of it (in this case 99.3% opacity) over an image, in this case the panda (image 1), the result is image 3, a picture that is virtually indistinguashable to a human, but the model believes it is now looking at a gibbon!
+
+For more examples of how adversarial examples can be used, check out [anti facial recognition t-shirts](https://www.wired.com/story/facial-recognition-t-shirt-block/)
+
+## Conclusion
+
+Thanks for reading. If you have any thoughts, feel free to head over to the contact page and drop me an email.
+
+> *"There is no reason and no way that a human mind can keep up with an artificial intelligence machine by 2035"*
