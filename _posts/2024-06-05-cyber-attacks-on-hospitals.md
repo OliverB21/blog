@@ -3,7 +3,6 @@ layout: post
 title: Why do Hackers Target Hospitals?
 subtitle: A brief anaylsis, inspired by the recent London cyber attack
 tags: Healthcare Hackings
-published: false
 ---
 > *"This is a harsh reminder that this sort of attack can happen to anyone at any time and that, dispiritingly, the individuals behind it have no scruples about who their actions might affect."*
 
