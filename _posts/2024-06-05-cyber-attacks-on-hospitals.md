@@ -19,12 +19,15 @@ According to the [Information Commissioner's website](https://ico.org.uk/media/f
 ## Why
 As the name "**ransom**ware" would imply, it is almost certain that the motivation behind this attack is money. Often, ransomware is distributed without much regard, as if you send out 10 attacks you're more likely to get a payout if you attack just one.
 
-Additionally, Ransomware as a Service (RaaS) is on the rise. Instead of needing technical expertise to put together a sophisticated ransomware attack, cyber criminals are renting or selling their software, allowing anyone to hold a business to ransom for the right price, and potentially make a profit in the process. 
-
+Additionally, Ransomware as a Service (RaaS) is on the rise. Instead of needing technical expertise to put together a sophisticated ransomware attack, cyber criminals are renting or selling their software, allowing anyone to hold a business to ransom for the right price (often 15-20% of the revenue).
 ## Update - 06/06/2024
-The attack has been claimed by Qilin, a Russian group of cyber criminals. The group has been operating since October 2022, and, offers a RaaS service as described above. They also seem to be more opportunistic than targeted, so the advice being given at the moment is to ensure that your systems are robust to ransomware attacks.
+The attack has been claimed by Qilin, a Russian group of cyber criminals. The group has been operating since October 2022, and, offers a RaaS service as described above. They also seem to be more opportunistic than targeted, so the advice being given at the moment is to ensure that your systems are robust to ransomware attacks. This attack has interestingly come at a time when western countries have started giving Ukraine more freedom on how they are using their arms.
 
-Interestingly, they also have a history of exfiltrating data alongside the ransomware. This is not always the case with ransomware, but allows the criminals to sell the data on the dark web if they don't receive payment for it, allowing a second source of income for the group. Whether this, if anything, will surface on the dark web is yet to be seen.
+Interestingly, they also have a history of exfiltrating data alongside the ransomware. This is not always the case with ransomware, but allows the criminals to sell the data on the dark web if they don't receive payment for it, allowing a second source of income for the group. Whether this, if anything, will surface on the dark web is yet to be seen. A detailed dive into this group, which is definitely worth a read, can be found at [Group-IB's blog](https://group-ib.com/blog/qilin-ransomware), where they went as far as infiltrating the group itself. Some key points from their post:
+
+![A graphic detailing information about the Qilin ransomware group](https://oliverb21.github.io/blog/img/posts/08_qilin_profile.png)
+
+*Image source - Group-IB*
 
 ## Conclusion
 Thanks for reading. If anything further information comes out, I'll make sure to update this post.
