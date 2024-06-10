@@ -34,8 +34,6 @@ Anyone can send a fake email, but they are often clumsy and easy to spot. It tak
 ## So, what's next?
 It's likely, over the next few weeks, more breaches that the group have performed will pop up, and investigations will begin into how such major breaches could have occurred. To keep yourself safe from breaches like this, make sure that your data is only being stored by companies that need it, and learn your rights around your data. Also, check out the [https://haveibeenpwned.com/](haveibeenpwned.com/) project, aiming to teach people about personal data, and find out if your email or password have appeared in any major breaches.
 
-Thanks for reading
-
 ## *Update - 03/06/2024*
 Snowflake have created a [blog post](https://community.snowflake.com/s/question/0D5VI00000Emyl00AB/detecting-and-preventing-unauthorized-user-access) effectively denying responsibility for the attack. In short, they are suggesting that they haven't been directly attacked, and that the breaches were caused by customers not having Multi Factor Authentication (MFA) enabled. This has lead to unauthorised access to their accounts with the help of credentials that have been stolen in previous, unrelated breaches. 
 
@@ -48,5 +46,14 @@ It's still unclear what we are looking, but there are a few possibilities of wha
 3. **Snowflake's security policies are weak**, meaning that customers followed advice given and this lead to their accounts being breached. In this case, the liability wouldn't be as clear as the first two
 
 Any of these are possible, but it is still bugging me *why Snowflake*? If the customer's details were already stolen, ShinyHunters could easily access so much more than just what is stored on Snowflake's servers, so why have they exclusively targeted this platform? I think there will be more details and questions answered as time goes on, but this process will likely be a long one. I'll try and keep this post updated.
+
+## *Update - 10/06/2024*
+I have always wondered how breaches like this are detected, especially in the case of breaches that aren't uncovered for some time. In one case, when Ticketmaster was breached in 2018, it was [Monzo](https://monzo.com/blog/2018/06/28/ticketmaster-breach/) seemed to spot it first. After various fraudulent transactions were reported to them in a small time frame, they investigated and found that all of those customers had used their cards on Ticketmaster at some point or another. They even found that someone had incorrectly input their details on Ticketmaster (incorrect expiry date), and a malicious actor had tried to use the incorrect details to make a transaction, further proving that Ticketmaster was the source of the breach.
+
+Initially, Ticketmaster denied being breached and claimed to Monzo that they had found "no evidence of a breach and that no other banks were reporting similar patterns". Just over a week later, Ticketmaster publically announced they had been breached due to malware distrbuted to their internal networks via their customer support product.
+
+Most breaches are detected after the threat actor makes a mistake, but what confirmed it here was not a mistake that was made not by the hacker, but by one of the victims. How ironic.
+
+Thanks for reading. Any comments or questions? Head over to the contact page and send me a message.
 
 > *"i hacked p much [all of these](https://www.snowflake.com/en/customers/all-customers/) so you could just list more of them"*

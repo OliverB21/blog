@@ -20,6 +20,10 @@ According to the [Information Commissioner's website](https://ico.org.uk/media/f
 As the name "**ransom**ware" would imply, it is almost certain that the motivation behind this attack is money. Often, ransomware is distributed without much regard, as if you send out 10 attacks you're more likely to get a payout if you attack just one.
 
 Additionally, Ransomware as a Service (RaaS) is on the rise. Instead of needing technical expertise to put together a sophisticated ransomware attack, cyber criminals are renting or selling their software, allowing anyone to hold a business to ransom for the right price (often 15-20% of the revenue).
+
+## Impact 
+The impact this is having on the hospitals can't be understated. In internal emails [leaked to the BBC](https://www.bbc.co.uk/news/articles/cljj1d2nz00o), medicine students are being asked to volunteer themselves as "floorwalkers", helping the pathology labs affected hand deliver results in a process that would otherwise be computerised. To be in a position to ask students to "show their commitment to patient care" and give up their time, they must be desperate. It will be interesting how they recover from this, as I would expect that they would have recovered with backups at this stage, if they have them.
+
 ## Update - 06/06/2024
 The attack has been claimed by Qilin, a Russian group of cyber criminals. The group has been operating since October 2022, and, offers a RaaS service as described above. They also seem to be more opportunistic than targeted, so the advice being given at the moment is to ensure that your systems are robust to ransomware attacks. This attack has interestingly come at a time when western countries have started giving Ukraine more freedom on how they are using their arms.
 
