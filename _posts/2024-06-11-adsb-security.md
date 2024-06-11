@@ -3,7 +3,6 @@ layout: post
 title: Aircraft Communication Security
 subtitle: Is ADS-B suitable in the modern world?
 tags: ADS-B Aerospace
-published: False
 ---
 
 >*" What about danger, one may enquire? Danger is one of the attractions in flying"*
@@ -12,7 +11,7 @@ published: False
 In today's world, airports and aircraft are one of the most secure places you can be. With the amount of checks and detectors someone must go through before getting in the plane, you'd struggle to get 101ml of liquid onto your flight. But, do these security policies apply to the digital communications in aerospace as well? Let's explore ADS-B.
 
 ## What is ADS-B?
-Automatic Dependant Surveillance-Broadcast, more commonly known as ADS-B, is one of the systems that aircraft use to broadcast information to the ground,for systems such as Air Traffic Control (ATC). This broadcast includes key pieces of information, such as location, direction, speed and height, and other information about the flight including it's source, destination and flight number. ATC can use this information to see where planes are in the sky and plan their arrivals into the airport. There are also various websites that allows enthusiast to view this information on a map, such as [FlightRadar](https://www.flightradar24.com/) and [ADS-B Exchange](https://globe.adsbexchange.com/). However, this technology has one key flaw: it's completely open. No encryption, no authentication, no certification. Let's see why that is important.
+Automatic Dependant Surveillance-Broadcast, more commonly known as ADS-B, is one of the systems that aircraft use to broadcast information to the ground,for systems such as Air Traffic Control (ATC). This broadcast includes key pieces of information, such as location, direction, speed and height, and other information about the flight including it's source, destination and flight number. ATC can use this information to see where planes are in the sky and plan their arrivals into the airport. There are also various websites that allow enthusiasts to view this information on a map, such as [FlightRadar](https://www.flightradar24.com/) and [ADS-B Exchange](https://globe.adsbexchange.com/). However, this technology has one key flaw: it's completely open. No encryption, no authentication, no certification. Let's see why that is important.
 
 ## Shopping List
 - HackRF One  or Similar - £263
