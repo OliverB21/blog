@@ -3,7 +3,7 @@ layout: post
 title:  "Blast Premier Spring Finals 2024"
 subtitle: My experience at my first live T1 CS2 event in London
 tags: Blast CS2
-background: https://oliverb21.github.io/blog/img/posts/11_team_vitality.jpg
+background_image: https://oliverb21.github.io/blog/img/posts/11_team_vitality.jpg
 ---
 > *"W0nderful puts that AWP over to the corner, that could come back to haunt him, tough spot to get the multifrag ... oooh ... OOOH ... WELCOME TO WONDERLAND! THEY LOCK DOWN THAT POST-PLANT LIKE IT'S NOTHING"*
 
@@ -27,6 +27,7 @@ On day 1 we watched Vitality knock out Faze, and Astralis get sent home by VP. W
 This day was much busier. Everyone that had been at work the day before was able to make it down, and the arena filled out a little more. There were still a few empty seats however, so we managed to slip forwards and sit about halfway towards the stage. We watched Spirit beat Vitality, which was a shame as Mezii was the only British player in the tournament, and had great support from the crowd. We also watched NaVi destroy VP, which was amazing fun as many of the fans in the arena (including me!) were there to see them. The energy was amazing, and the [CS was amazing too](https://clips.twitch.tv/CaringSpinelessTurtleHassaanChop-DkhEkn7_-hPTQuZt).
 
 ![NaVi team introduction](https://oliverb21.github.io/blog/img/posts/12_navi.jpg)
+<img src="https://oliverb21.github.io/blog/img/posts/12_navi.jpg" alt="NaVi team introduction" text-align="centre"/>
 
 *Image source - Me*
 
