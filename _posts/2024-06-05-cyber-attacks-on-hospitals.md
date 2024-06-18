@@ -30,7 +30,7 @@ The attack has been claimed by Qilin, a Russian group of cyber criminals. The gr
 
 Interestingly, they also have a history of exfiltrating data alongside the ransomware. This is not always the case with ransomware, but allows the criminals to sell the data on the dark web if they don't receive payment for it, allowing a second source of income for the group. Whether this, if anything, will surface on the dark web is yet to be seen. A detailed dive into this group, which is definitely worth a read, can be found at [Group-IB's blog](https://group-ib.com/blog/qilin-ransomware), where they went as far as infiltrating the group itself. Some key points from their post:
 
-![A graphic detailing information about the Qilin ransomware group](https://oliverb21.github.io/blog/img/posts/08_qilin_profile.png)
+<img src="https://oliverb21.github.io/blog/img/posts/08_qilin_profile.png" alt="A graphic detailing information about the Qilin ransomware group" text-align="centre" width="750"/>
 
 *Image source - Group-IB*
 

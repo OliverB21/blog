@@ -26,7 +26,7 @@ So now you know what to look out for, let's take a look at some scam and phishin
 ### Number One - Obviously Fake
 Often people joke about receieving an email from a "Nigerian Prince" offering them a fortune. Unfortunatley the prince didn't contact me directly, but the Central Bank of Nigeria (CBN):
 
-![A screenshot of a scam email](https://oliverb21.github.io/blog/img/posts/02_CBN_email.png)
+<img src="https://oliverb21.github.io/blog/img/posts/02_CBN_email.png" alt="A screenshot of a scam email" text-align="centre" width="750"/>
 
 *Image source - Me*
 
@@ -40,7 +40,7 @@ The above email is the perfect example of a phishing email that covers all of th
 ### Number Two - Slightly More Convincing (Still fake though!)
 For this one, I have chosen an email from "PayPal":
 
-![A screenshot of a scam invoice from "PayPal"](https://oliverb21.github.io/blog/img/posts/03_fake_paypal.png)
+<img src="https://oliverb21.github.io/blog/img/posts/03_fake_paypal.png" alt="A screenshot of a scam invoice from 'PayPal'" text-align="centre" width="750"/>
 
 *Image source - Me*
 

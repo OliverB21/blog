@@ -13,9 +13,9 @@ It's generall quite difficult to explain to people who don't play Counter-Strike
 
 We opted to head up on the Friday instead of the Saturday, as the tickets were cheap and we wanted to make the most of the weekend. We made it through London and arrived at the arena about 2:30, and found the arena was relatively quiet due to the fact we were there on a work day. After pottering around and looking at some of the stands and displays on offer (mostly sponsored stuff, although I won a pin!), we found our seats at the back. Before we had a chance to sit down however, a gentleman in high-vis appeared and gave us 3 tickets to the front, to fill it out for the cameras! Definitley made the right choice buying the cheap seats! This was our view before and after the seat change:
 
-![The Blast Premier Spring Final stage, from the back of the arena](https://oliverb21.github.io/blog/img/posts/09_old_seats.jpg)
+<img src="https://oliverb21.github.io/blog/img/posts/09_old_seats.jpg" alt="The Blast Premier Spring Final stage, from the back of the arena" text-align="centre" width="750"/>
 
-![The Blast Premier Spring Final stage, from the front of the arena](https://oliverb21.github.io/blog/img/posts/10_new_seats.jpg)
+<img src="https://oliverb21.github.io/blog/img/posts/10_new_seats.jpg" alt="The Blast Premier Spring Final stage, from the front of the arena" text-align="centre" width="750"/>
 
 *Image source - Me*
 
@@ -37,7 +37,7 @@ Unfortunatley, NaVi were beaten in the final by Spirit. While this wasn't the re
 
 Pizza Express was dinner of choice for the evening, and while we didn't sit next to Faze, there was still a cool experience to come. As we were walking to the bus stop we noticed a small crowd of fans waiting on a road inbetween the arena and a hotel. As we had some time to spare we wandered over, and hung around for about 10 minutes. The others were keen to head off, but I had a feeling something was going to happen so I asked for 5 more minutes. As we were about to call it a day, jL of NaVi came out to take photos with fans! This was a great interaction to end an amazing day, and was a class act from him to come out 10 minutes ahead of his team to take photos despite their team's defeat just hours earlier. I'm a fan of a unique souvenir or trinket, and this definitely meets that requirement:
 
-![Cap signed by NaVi star player jL](https://oliverb21.github.io/blog/img/posts/13_signed_jl_cap.jpg)
+<img src="https://oliverb21.github.io/blog/img/posts/13_signed_jL_cap.jpg" alt="Cap signed by NaVi star player jL" text-align="centre" width="750"/>
 
 *Image source - Me*
 

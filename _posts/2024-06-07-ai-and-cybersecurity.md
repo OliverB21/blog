@@ -36,7 +36,7 @@ Now imagine you are a malicious actor. You have stumbled across this AI endpoint
 
 Adversarial attacks are known for their usage in image recognition algorithms, including facial recognition cameras. The idea behind this is to modify the input in such a way that causes "confusion" in the algorithm, leading to a misclassification, or no classification at all. Let's take a look at a visual example:
 
-![An image of a panda, a noise map and the same image of a panda](https://oliverb21.github.io/blog/img/posts/07_adversarial_example.png)
+<img src="https://oliverb21.github.io/blog/img/posts/07_adversarial_example.png" alt="An image of a panda, a noise map and the same image of a panda" text-align="centre" width="750"/>
 
 *Image Source - [Explaining and Harnessing Adversarial Examples](https://arxiv.org/pdf/1412.6572)*
 
