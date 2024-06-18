@@ -6,6 +6,7 @@ tags: LLM Data AI
 ---
 > *"Crafted from code, we are the digital architects of tomorrow, endlessly learning to illuminate the symbiosis of human and machine."*
 
+---
 ## Where does AI and Cyber Security meet?
 These aren't often 2 terms that go hand in hand. When we think of AI, we imagine Large Language Models (LLMs) helping to write essays, understand difficult topics or advise us on any part of modern life. But how could a system like this be insecure? Let's take a look at a few examples of how different types of AI may be vulnerable.
 

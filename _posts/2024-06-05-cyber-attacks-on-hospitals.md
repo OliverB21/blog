@@ -6,6 +6,7 @@ tags: Healthcare Hackings
 ---
 > *"This is a harsh reminder that this sort of attack can happen to anyone at any time and that, dispiritingly, the individuals behind it have no scruples about who their actions might affect."*
 
+---
 ## The Context
 Earlier today, BBC News reported that various London hospitals had been hit with a cyber attack. So, I'm going to take a brief look into the attack to find out what happened, and try and find out more about why someone would attack a hospital.
 

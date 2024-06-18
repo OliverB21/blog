@@ -6,6 +6,7 @@ tags: Funny Protocols OSI
 ---
 >*"This memo describes an experimental method for the encapsulation of IP datagrams in avian carriers.  This specification is primarily useful in Metropolitan Area Networks."*
 
+---
 ## Introduction
 There are many protocols and standards that ensure that the systems we use and run every day can communicate and exchange data effectively. But not all of these communication protocols are created equally. Today I'm going to look at some of the funny, interesting and bizzare protocols that have been formally registered over the years. I've also noted the Request For Comment (RFC) number, for easy reference.
 

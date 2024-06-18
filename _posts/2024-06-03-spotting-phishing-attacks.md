@@ -6,6 +6,7 @@ tags: Data Phishing Education
 ---
 > *“Dear beloved, Please read this slowly and carefully, as it may be one of the most important emails you have ever get”*
 
+---
 ## What is Phishing
 As computers are becoming more secure, it is more favourable for threat actors to use the weakest link in a computer system, the person. Instead of investing many thousands of pounds in the best hackers with the most advanced tools, it is often easier to set up a free email address, spam thousands of people and hope that one or two people fall for their scam before they get shut down (and yes, the quotes at the top and bottom are from real scam emails I received).
 

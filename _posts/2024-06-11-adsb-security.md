@@ -7,6 +7,7 @@ tags: ADS-B Aerospace
 
 >*" What about danger, one may enquire? Danger is one of the attractions in flying"*
 
+---
 ## Introduction
 In today's world, airports and aircraft are one of the most secure places you can be. With the amount of checks and detectors someone must go through before getting in the plane, you'd struggle to get 101ml of liquid onto your flight. But, do these security policies apply to the digital communications in aerospace as well? Let's explore ADS-B.
 

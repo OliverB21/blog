@@ -6,6 +6,7 @@ tags: APT Data ShinyHunters
 ---
 > *“Until you have experienced something like this, you don't realise just what can happen, just how serious it can be.”*
 
+---
 ## Newsworthy Breaches
 Over the last few weeks, 2 major data breaches have hit the news, both [Santander](https://www.bbc.co.uk/news/articles/c6ppv06e3n8o) and [Ticketmaster](https://www.bbc.co.uk/news/articles/c899pz84d8zo). This is unusual, as these major breaches aren't common in the news. It's even more unusual that they have both been claimed by the same group of hackers. So let's dive into the details.
 
