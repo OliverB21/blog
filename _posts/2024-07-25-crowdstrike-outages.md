@@ -3,7 +3,6 @@ layout: post
 title: The CrowdStrike Outages
 subtitle: How did one update cause so much damage?
 tags: Crowdstrike BSOD Outage
-published: False
 ---
 
 > *"CrowdStrike is actively assisting customers affected by a defect in a recent content update for Windows hosts."*
@@ -21,7 +20,11 @@ As the day goes on, mnay businesses and organisations around the world begin exp
 The issue stems from one of the sensors that is attached to the software. The configuration was changed as part of an update and pushed out into production. This configuration caused an error within Windows, that caused a Blue Screen Of Death (BSOD) loop, where the computer would boot, crash and restart over and over. The issue with a problem like this is that it can't be fixed by issuing a quick patch over a software distribtion system, as the computer would have to boot properly in order to use them. Therefore, the current fix only works by manually perfoming an update. This is not practical for a whole host of reasons!
 
 ## What happens next?
-Once the dust has settled and the majority of computers have returned to normal, it is unlikely much will happen externally to CrowdStrike. There is likely to be some interal reviews at CrowdStrike and some policy changes (as well as a loss in business!), but I doubt the company would be found liable for any damages, but that is yet to be seen.
+The waves of this will be felt for a long time after the incident is resolved. Many systems will take a significant amount of time to come back online, and the delays caused in systems like the NHS will be felt for a while to come.
+
+Additionally, who is ultimatley to blame for this, and where? If, say, someone was found to have died in hospital and that death was linked to the systems going down, would the person who pushed the update be responsible? The person that programmed it? The manager that signed off on it? And if that case appeared in 10 different countries, where would that person be punished, if at all? This case opens up many legal questions that I am by no means qualified to answer.
+
+Ultimatley we will see. I can imagine lawyers are already reading up and studying case law to find out if there is a similar precedent for something like this, and we will see how it is battled out in court in the coming months and years.
 
 Thanks for reading. Any comments feel free to let me know.
 
