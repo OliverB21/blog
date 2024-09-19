@@ -11,7 +11,7 @@ published: True
 ---
 ## What happened
 
-Various officers and other memebers of staff on the US Navy ship USS Manchester have been fired or demoted after a rogue Wi-Fi network was discovered on their ship. It was found that a ring of senior officers had set up a Wi-Fi network called "STINKY", that other senior officers were able to buy into and use at their own leisure. But why has this been found to be so serious?
+Various officers and other members of staff on the US Navy ship USS Manchester have been fired or demoted after a rogue Wi-Fi network was discovered on their ship. It was found that a ring of senior officers had set up a Wi-Fi network called "STINKY", that other senior officers were able to buy into and use at their own leisure. But why has this been found to be so serious?
 
 ## Why it is important
 
