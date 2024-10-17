@@ -6,7 +6,7 @@ tags:
 published: False
 ---
 
-> *"Quote 1"*
+> *"I am not going for fun, I'm going for precision"*
 
 ---
 ## First Heading
