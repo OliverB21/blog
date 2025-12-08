@@ -4,6 +4,7 @@ title:  "Blast Premier Spring Finals 2024"
 subtitle: My experience at my first live T1 CS2 event in London
 tags: Blast CS2
 background_image: https://oliverb21.github.io/blog/img/posts/11_team_vitality.jpg
+published: false
 ---
 > *"W0nderful puts that AWP over to the corner, that could come back to haunt him, tough spot to get the multifrag ... oooh ... OOOH ... WELCOME TO WONDERLAND! THEY LOCK DOWN THAT POST-PLANT LIKE IT'S NOTHING"*
 
